@@ -1,88 +1,44 @@
-<!-- =============================================== -->
-<!--               HEADER · BANNER                    -->
-<!-- =============================================== -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jhon%20Jader&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Web%20Developer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jhon%20Jader&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Estudiante%20de%20Ingeniería%20de%20Software%20%7C%20Desarrollador%20Web&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
 
-<!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=22C55E&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Jhon+Jader+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;Always+learning+something+new+%F0%9F%9A%80;Football+%E2%9A%BD+Music+%F0%9F%8E%B5+Movies+%F0%9F%8E%AC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=22C55E&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Jhon+Jader+%F0%9F%91%8B;Desarrollador+Frontend+%F0%9F%92%BB;Siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80;F%C3%BAtbol+%E2%9A%BD+M%C3%BAsica+%F0%9F%8E%B5+Cine+%F0%9F%8E%AC" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Idioma toggle -->
-<a href="#-español"><img src="https://img.shields.io/badge/lang-Español-22c55e?style=for-the-badge&logo=googletranslate&logoColor=white" /></a>
-<a href="#-english"><img src="https://img.shields.io/badge/lang-English-0891b2?style=for-the-badge&logo=googletranslate&logoColor=white" /></a>
-
-<br/>
-
-<!-- Profile views & followers -->
-<img src="https://komarev.com/ghpvc/?username=JADER124&label=Profile%20views&color=22c55e&style=flat" alt="profile views" />
-<img src="https://img.shields.io/github/followers/JADER124?label=Followers&style=flat&color=0891b2" alt="followers" />
-<img src="https://img.shields.io/badge/Focus-Frontend%20%2B%20Node.js-1c1917?style=flat&logo=target&logoColor=22c55e" alt="focus" />
+<img src="https://komarev.com/ghpvc/?username=JADER124&label=Visitas%20al%20perfil&color=22c55e&style=flat" alt="visitas" />
+<img src="https://img.shields.io/github/followers/JADER124?label=Seguidores&style=flat&color=0891b2" alt="seguidores" />
 
 </div>
 
 <br/>
 
-<!-- =============================================== -->
-<!--                  🇪🇸 ESPAÑOL                     -->
-<!-- =============================================== -->
-
-## 🇪🇸 Español
+---
 
 ```typescript
 const jhon = {
   alias:      "JADER124",
-  location:   "Medellín, Colombia 🇨🇴",
-  role:       "Software Engineering Student",
-  focus:      ["Frontend Development", "Web Design", "UX/UI"],
-  currently:  "Construyendo Mi Promedio 🚀",
-  learning:   "Node.js + Backend architecture",
-  passions:   ["⚽ Fútbol", "🎵 Música", "🎬 Buenas películas"],
-  philosophy: "Crear aplicaciones reconocidas globalmente",
+  ubicación:  "Medellín, Colombia 🇨🇴",
+  rol:        "Estudiante de Ingeniería de Software",
+  enfoque:    ["Frontend Development", "Diseño Web", "UX/UI"],
+  actualmente: "Construyendo Mi Promedio 🚀",
+  aprendiendo: "Node.js + Arquitectura Backend",
+  pasiones:   ["⚽ Fútbol", "🎵 Música", "🎬 Buenas películas"],
+  filosofía:  "Crear aplicaciones reconocidas globalmente",
 };
 ```
 
-> 💡 *Estudiante apasionado por la programación, el diseño web y las ideas innovadoras. Mi objetivo es crear aplicaciones reconocidas a nivel global.*
+> *Estudiante apasionado por la programación, el diseño web y las ideas innovadoras. Mi objetivo es crear aplicaciones reconocidas a nivel global.*
 
 📫 **Contacto:** [jaderlopez186@gmail.com](mailto:jaderlopez186@gmail.com) · 🌐 **Portfolio:** [mipromedio.site](http://mipromedio.site)
 
 <br/>
 
-<!-- =============================================== -->
-<!--                  🇬🇧 ENGLISH                     -->
-<!-- =============================================== -->
+---
 
-## 🇬🇧 English
-
-```typescript
-const jhon = {
-  alias:      "JADER124",
-  location:   "Medellín, Colombia 🇨🇴",
-  role:       "Software Engineering Student",
-  focus:      ["Frontend Development", "Web Design", "UX/UI"],
-  currently:  "Building Mi Promedio 🚀",
-  learning:   "Node.js + Backend architecture",
-  passions:   ["⚽ Football", "🎵 Music", "🎬 Great movies"],
-  philosophy: "Create globally recognized applications",
-};
-```
-
-> 💡 *Student passionate about programming, web design and innovative ideas. My goal is to create globally recognized applications.*
-
-📫 **Contact:** [jaderlopez186@gmail.com](mailto:jaderlopez186@gmail.com) · 🌐 **Portfolio:** [mipromedio.site](http://mipromedio.site)
-
-<br/>
-
-<!-- =============================================== -->
-<!--                  🛠️ TECH STACK                   -->
-<!-- =============================================== -->
-
-## 🛠️ Tech Stack
+## 🛠️ Stack Tecnológico
 
 <table align="center">
   <tr>
@@ -141,11 +97,9 @@ const jhon = {
 
 <br/>
 
-<!-- =============================================== -->
-<!--               🚀 FEATURED PROJECT                -->
-<!-- =============================================== -->
+---
 
-## 🚀 Featured Project · Proyecto Destacado
+## 🚀 Proyecto Destacado
 
 <div align="center">
 
@@ -154,96 +108,54 @@ const jhon = {
 </a>
 
 **🎓 Mi Promedio** — Plataforma web para calcular y proyectar tu promedio académico de forma inteligente.
-<br/>
-*A smart web platform to calculate and project your academic average.*
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-mipromedio.site-22c55e?style=for-the-badge)](http://mipromedio.site)
+[![Demo](https://img.shields.io/badge/🌐_Demo_en_vivo-mipromedio.site-22c55e?style=for-the-badge)](http://mipromedio.site)
 
 </div>
 
 <br/>
 
-<!-- =============================================== -->
-<!--                📊 GITHUB STATS                   -->
-<!-- =============================================== -->
+---
 
-## 📊 GitHub Analytics
+## 📊 Estadísticas
 
 <div align="center">
 
 <a href="https://github.com/JADER124">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=JADER124&show_icons=true&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=JADER124&show_icons=true&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/JADER124">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=JADER124&theme=dark&hide_border=true&background=1c1917&stroke=22c55e&ring=22c55e&fire=0891b2&currStreakLabel=22c55e&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=a1a1aa" alt="GitHub Streak" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=JADER124&theme=dark&hide_border=true&background=1c1917&stroke=22c55e&ring=22c55e&fire=0891b2&currStreakLabel=22c55e&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=a1a1aa" alt="GitHub Streak" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/JADER124">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JADER124&langs_count=8&layout=compact&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JADER124&langs_count=8&layout=compact&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&cache_seconds=1800" alt="Lenguajes" />
 </a>
 <a href="https://wakatime.com/@JADER124">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=JADER124&layout=compact&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&custom_title=⏱️%20Weekly%20Coding%20Time" alt="WakaTime Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=JADER124&layout=compact&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&custom_title=Tiempo%20de%20Código%20Semanal" alt="WakaTime" />
 </a>
 
 </div>
 
 <br/>
 
-<!-- =============================================== -->
-<!--             📈 ACTIVITY GRAPH                    -->
-<!-- =============================================== -->
+---
 
-## 📈 Contribution Activity
+## 📈 Actividad de Contribuciones
 
 <div align="center">
 
-[![Jhon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JADER124&bg_color=1c1917&color=ffffff&line=22c55e&point=0891b2&area=true&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=JADER124&bg_color=1c1917&color=ffffff&line=22c55e&point=0891b2&area=true&hide_border=true&custom_title=Contribuciones)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 <br/>
 
-<!-- =============================================== -->
-<!--                  🐍 SNAKE                        -->
-<!-- =============================================== -->
+---
 
-## 🐍 Watch My Contributions Get Eaten
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JADER124/JADER124/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JADER124/JADER124/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JADER124/JADER124/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
-<br/>
-
-<!-- =============================================== -->
-<!--                 🏆 TROPHIES                      -->
-<!-- =============================================== -->
-
-## 🏆 Achievements · Logros
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=JADER124&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&title=Stars,Commits,Repositories,Followers,PullRequest,Issues,Reviews" alt="GitHub Trophies" />
-</a>
-
-</div>
-
-<br/>
-
-<!-- =============================================== -->
-<!--                🌐 CONNECT WITH ME                -->
-<!-- =============================================== -->
-
-## 🌐 Let's Connect · Conectemos
+## 🌐 Conectemos
 
 <div align="center">
 
@@ -264,16 +176,10 @@ const jhon = {
 
 <br/>
 
-<!-- =============================================== -->
-<!--                  ✨ FOOTER                       -->
-<!-- =============================================== -->
-
 <div align="center">
 
-### 💭 *"The best way to predict the future is to create it."*
+<sub>Hecho con pasión desde Medellín 🇨🇴</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
-
-<sub>⚡ Built with passion by <b>Jhon Jader</b> · Made in Medellín 🇨🇴 with ☕ + 🎵</sub>
 
 </div>
