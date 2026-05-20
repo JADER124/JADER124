@@ -128,26 +128,19 @@ const jhon = {
   <img height="180" src="https://streak-stats.demolab.com/?user=JADER124&theme=dark&hide_border=true&background=1c1917&stroke=22c55e&ring=22c55e&fire=0891b2&currStreakLabel=22c55e&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=a1a1aa" alt="GitHub Streak" />
 </a>
 
-<br/><br/>
-
-<a href="https://github.com/JADER124">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JADER124&langs_count=8&layout=compact&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&cache_seconds=1800" alt="Lenguajes" />
-</a>
-<a href="https://wakatime.com/@JADER124">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=JADER124&layout=compact&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&custom_title=Tiempo%20de%20Código%20Semanal" alt="WakaTime" />
-</a>
-
 </div>
 
 <br/>
 
 ---
 
-## 📈 Actividad de Contribuciones
+## 📈 Actividad y Lenguajes
 
 <div align="center">
 
-[![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=JADER124&bg_color=1c1917&color=ffffff&line=22c55e&point=0891b2&area=true&hide_border=true&custom_title=Contribuciones)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[<img align="left" width="390" alt="WakaTime" src="/metrics.plugin.wakatime.svg">](#)
+[<img align="right" width="390" alt="Lenguajes" src="/metrics.plugin.languages.details.svg">](#)
+[<img align="center" width="100%" alt="Calendario" src="/metrics.plugin.isocalendar.svg">](#)
 
 </div>
 
