@@ -136,13 +136,21 @@ const jhon = {
 
 ## 📈 Actividad y Lenguajes
 
-<div align="center">
-
-[<img align="left" width="390" alt="WakaTime" src="/metrics.plugin.wakatime.svg">](#)
-[<img align="right" width="390" alt="Lenguajes" src="/metrics.plugin.languages.details.svg">](#)
-[<img align="center" width="100%" alt="Calendario" src="/metrics.plugin.isocalendar.svg">](#)
-
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img width="100%" src="/metrics.plugin.wakatime.svg" alt="WakaTime" />
+    </td>
+    <td width="50%" valign="top">
+      <img width="100%" src="/metrics.plugin.languages.details.svg" alt="Lenguajes" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img width="100%" src="/metrics.plugin.isocalendar.svg" alt="Calendario de contribuciones" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
