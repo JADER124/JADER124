@@ -16,7 +16,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 707kb of code in 433 edited files across 82 commits</small>
+                <small>estimation from 715kb of code in 441 edited files across 89 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -36,7 +36,6 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>200 kB</div>
                                 <div>50.25%</div>
                             </small>
                         </div>
@@ -48,7 +47,6 @@
                                 Python
                             </div>
                             <small>
-                                <div>11.7 kB</div>
                                 <div>2.94%</div>
                             </small>
                         </div>
@@ -62,7 +60,6 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>186 kB</div>
                                 <div>46.8%</div>
                             </small>
                         </div>
