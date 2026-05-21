@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&stroke=22C55E&strokeOpacity=1&height=180&section=header&text=Jhon%20Jader%20Lopez&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Data%20Engineer%20%7C%20Software%20Engineer%20%7C%20Frontend%20Developer&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&stroke=22C55E&strokeOpacity=1&height=180&section=header&text=Jhon%20Jader%20Lopez&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Data%20Engineer%20%7C%20Software%20Engineer%20%7C%20Frontend%20Developer&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
 
 <img src="https://img.shields.io/badge/🛠️_DATA_ENGINEER-0891b2?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/💻_FRONTEND_DEV-22c55e?style=for-the-badge&logoColor=white" />
@@ -146,7 +146,7 @@ const jhon = {
 
 > *"No escribo código, materializo ideas."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&stroke=22C55E&strokeOpacity=1&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&stroke=22C55E&strokeOpacity=1&height=120&section=footer" width="100%" />
 
 <sub>Hecho con pasión desde Medellín 🇨🇴</sub>
 
