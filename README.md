@@ -94,24 +94,12 @@ const jhon = {
 
 
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="/metrics.plugin.wakatime.svg" width="400">
-    </td>
-    <td>
-      <img src="/metrics.plugin.traffic.svg" width="400">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="/metrics.plugin.languages.details.svg" width="400">
-    </td>
-    <td>
-      <img src="/metrics.plugin.isocalendar.svg" width="400">
-    </td>
-  </tr>
-</table>
+## 📊 Estadísticas & Actividad
+
+[<img align="left" width="390" src="/metrics.plugin.wakatime.svg">](#)
+[<img align="right" width="390" src="/metrics.plugin.traffic.svg">](#)
+[<img align="left" width="390" src="/metrics.plugin.languages.details.svg">](#)
+[<img align="right" width="390" src="/metrics.plugin.isocalendar.svg">](#)
 
 <br/>
 
