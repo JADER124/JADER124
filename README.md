@@ -100,20 +100,13 @@ const jhon = {
 
 <div align="center">
 
-<a href="https://github.com/JADER124">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=JADER124&show_icons=true&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/JADER124">
-  <img height="180" src="https://streak-stats.demolab.com/?user=JADER124&theme=dark&hide_border=true&background=1c1917&stroke=22c55e&ring=22c55e&fire=0891b2&currStreakLabel=22c55e&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=a1a1aa" alt="GitHub Streak" />
-</a>
-
-<br/><br/>
-
 <img width="100%" src="/metrics.svg" alt="Métricas" />
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JADER124&bg_color=1c1917&color=ffffff&line=22c55e&point=0891b2&area=true&hide_border=true&custom_title=Gráfico%20de%20contribuciones)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://github.com/JADER124">
+  <img height="170" src="https://streak-stats.demolab.com/?user=JADER124&theme=dark&hide_border=true&background=1c1917&stroke=22c55e&ring=22c55e&fire=0891b2&currStreakLabel=22c55e&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=a1a1aa" alt="GitHub Streak" />
+</a>
 
 </div>
 
