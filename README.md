@@ -94,7 +94,7 @@ const jhon = {
 
 
 
-## 📊 Estadísticas & Actividad
+## 📊 Estadísticas & Actividad <a href="https://wakatime.com/@a1bf2c89-d0a7-40f5-9873-e7d88269db0a"><img src="https://wakatime.com/badge/user/a1bf2c89-d0a7-40f5-9873-e7d88269db0a.svg" alt="Total time coded since Nov 13 2025" /></a>
 
 <table width="100%">
   <tr>
