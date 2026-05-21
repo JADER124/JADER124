@@ -94,23 +94,24 @@ const jhon = {
 
 
 
----
-
-## 📊 Estadísticas & Actividad
-
-<div align="center">
-
-[<img align="left" width="390" alt="WakaTime" src="/metrics.plugin.wakatime.svg">](#)
-[<img align="right" width="390" alt="Lenguajes" src="/metrics.plugin.languages.details.svg">](#)
-[<img align="center" width="100%" alt="Calendario" src="/metrics.plugin.isocalendar.svg">](#)
-
-<br/>
-
-<a href="https://github.com/JADER124">
-  <img height="170" src="https://streak-stats.demolab.com/?user=JADER124&theme=dark&hide_border=true&background=1c1917&stroke=22c55e&ring=22c55e&fire=0891b2&currStreakLabel=22c55e&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=a1a1aa" alt="GitHub Streak" />
-</a>
-
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="/metrics.plugin.wakatime.svg" width="400">
+    </td>
+    <td>
+      <img src="/metrics.plugin.traffic.svg" width="400">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/metrics.plugin.languages.details.svg" width="400">
+    </td>
+    <td>
+      <img src="/metrics.plugin.isocalendar.svg" width="400">
+    </td>
+  </tr>
+</table>
 
 <br/>
 
