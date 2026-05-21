@@ -1,15 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=22C55E&height=4" width="100%" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=180&section=header&text=Jhon%20Jader%20Lopez&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Data%20Engineer%20%7C%20Software%20Engineer%20%7C%20Frontend%20Developer&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
-
-<img src="https://img.shields.io/badge/🛠️_DATA_ENGINEER-0891b2?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/💻_FRONTEND_DEV-22c55e?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/☁️_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/⚡_ETL-7C3AED?style=for-the-badge&logoColor=white" />
-
-<br/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=183&section=header&text=Jhon%20Jader%20Lopez&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Data%20Engineer%20%7C%20AWS%20Cloud%20%7C%20Software%20Engineer%20%7C%20Frontend%20Developer&descSize=15&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=22C55E&center=true&vCenter=true&width=650&lines=Hola%2C+soy+Jhon+Jader+%F0%9F%91%8B;Data+Engineer+%F0%9F%9B%A0%EF%B8%8F;Software+Engineer+%F0%9F%92%BB;Frontend+Developer+%F0%9F%8C%90;Construyendo+el+futuro+con+datos+%2B+cloud+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
