@@ -100,7 +100,9 @@ const jhon = {
 
 <div align="center">
 
-<img width="100%" src="/metrics.svg" alt="Métricas" />
+[<img align="left" width="390" alt="WakaTime" src="/metrics.plugin.wakatime.svg">](#)
+[<img align="right" width="390" alt="Lenguajes" src="/metrics.plugin.languages.details.svg">](#)
+[<img align="center" width="100%" alt="Calendario" src="/metrics.plugin.isocalendar.svg">](#)
 
 <br/>
 
