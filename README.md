@@ -96,7 +96,7 @@ const jhon = {
 
 ## 📊 Estadísticas & Actividad
 
-<table width="100%">
+<!-- <table width="100%">
   <tr>
     <td width="50%" align="center">
       <img src="/metrics.plugin.wakatime.svg" width="100%">
@@ -113,7 +113,12 @@ const jhon = {
       <img src="/metrics.plugin.isocalendar.svg" width="100%">
     </td>
   </tr>
-</table>
+</table> -->
+
+[<img align="left" width="390" alt="Wakatime Stats" src="/metrics.plugin.wakatime.svg">](#)
+[<img align="right" width="390" alt="Repos Stats" src="/metrics.plugin.traffic.svg">](#)
+[<img align="left" width="390" alt="Languages Stats" src="/metrics.plugin.languages.details.svg">](#)
+[<img align="right" width="390" alt="Repos Stats" src="/metrics.plugin.isocalendar.svg">](#)
 
 <br/>
 

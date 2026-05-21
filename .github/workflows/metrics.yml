@@ -46,11 +46,10 @@ jobs:
           plugin_languages_limit: 6
           plugin_languages_indepth: yes
 
-      - name: Calendario isométrico
+      - name: Half-year calendar
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
