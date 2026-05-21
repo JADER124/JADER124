@@ -17,12 +17,12 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.wakatime.svg
-          token: NOT_NEEDED
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-          plugin_wakatime_days: 30
-          plugin_wakatime_sections: time, projects, languages, editors, os
+          plugin_wakatime_days: 7
+          plugin_wakatime_sections: time, languages-graphs, editors
 
       - name: Repositorios
         uses: lowlighter/metrics@latest
