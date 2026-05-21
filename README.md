@@ -101,6 +101,8 @@ const jhon = {
 [<img align="left" width="390" src="/metrics.plugin.languages.details.svg">](#)
 [<img align="right" width="390" src="/metrics.plugin.isocalendar.svg">](#)
 
+<br clear="all" />
+
 <br/>
 
 ---
