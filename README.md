@@ -1,15 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jhon%20Jader&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Estudiante%20de%20Ingeniería%20de%20Software%20%7C%20Desarrollador%20Web&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&stroke=22C55E&strokeOpacity=1&height=180&section=header&text=Jhon%20Jader%20Lopez&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Data%20Engineer%20%7C%20Software%20Engineer%20%7C%20Frontend%20Developer&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
+
+<img src="https://img.shields.io/badge/🛠️_DATA_ENGINEER-0891b2?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/💻_FRONTEND_DEV-22c55e?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/☁️_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/⚡_ETL-7C3AED?style=for-the-badge&logoColor=white" />
+
+<br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=22C55E&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Jhon+Jader+%F0%9F%91%8B;Desarrollador+Frontend+%F0%9F%92%BB;Siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80;F%C3%BAtbol+%E2%9A%BD+M%C3%BAsica+%F0%9F%8E%B5+Cine+%F0%9F%8E%AC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=22C55E&center=true&vCenter=true&width=650&lines=Hola%2C+soy+Jhon+Jader+%F0%9F%91%8B;Data+Engineer+%F0%9F%9B%A0%EF%B8%8F;Software+Engineer+%F0%9F%92%BB;Frontend+Developer+%F0%9F%8C%90;Construyendo+el+futuro+con+datos+%2B+cloud+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=JADER124&label=Visitas%20al%20perfil&color=22c55e&style=flat" alt="visitas" />
-<img src="https://img.shields.io/github/followers/JADER124?label=Seguidores&style=flat&color=0891b2" alt="seguidores" />
+<a href="https://personal-portfolio-tawny-psi.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-personal--portfolio-22c55e?style=for-the-badge" alt="Portfolio" />
+</a>
 
 </div>
 
@@ -17,22 +25,23 @@
 
 ---
 
+## 🙋‍♂️ Sobre mí
+
 ```typescript
 const jhon = {
-  alias:      "JADER124",
-  ubicación:  "Medellín, Colombia 🇨🇴",
-  rol:        "Estudiante de Ingeniería de Software",
-  enfoque:    ["Frontend Development", "Diseño Web", "UX/UI"],
-  actualmente: "Construyendo Mi Promedio 🚀",
-  aprendiendo: "Node.js + Arquitectura Backend",
-  pasiones:   ["⚽ Fútbol", "🎵 Música", "🎬 Buenas películas"],
-  filosofía:  "Crear aplicaciones reconocidas globalmente",
+  alias:       "JADER124",
+  ubicación:   "Medellín, Colombia 🇨🇴",
+  rolActual:   "Ingeniero de Datos",
+  formación:   "Tecnológico de Antioquia · Ing. de Software",
+  enfoque:     ["Data Engineering", "ETL & Cloud Pipelines", "Frontend Dev"],
+  actualmente: "Diseñando modelos analíticos en AWS 🚀",
+  aprendiendo: "Spark · Snowflake · Arquitectura de datos en la nube",
+  filosofía:   "Diseñar sistemas de datos robustos en la nube que impulsen equipos a tomar decisiones estratégicas y liderar la transformación digital",
 };
 ```
 
-> *Estudiante apasionado por la programación, el diseño web y las ideas innovadoras. Mi objetivo es crear aplicaciones reconocidas a nivel global.*
+> *Apasionado por convertir datos en historias y código en soluciones. Combino análisis de datos, desarrollo web y curiosidad por la tecnología para crear productos con impacto real.*
 
-📫 **Contacto:** [jaderlopez186@gmail.com](mailto:jaderlopez186@gmail.com) · 🌐 **Portfolio:** [mipromedio.site](http://mipromedio.site)
 
 <br/>
 
@@ -40,84 +49,61 @@ const jhon = {
 
 ## 🛠️ Stack Tecnológico
 
-<table align="center">
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br><sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br><sub><b>React</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br><sub><b>Node.js</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br><sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br><sub><b>HTML5</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-      <br><sub><b>CSS3</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-      <br><sub><b>Tailwind</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
-      <br><sub><b>Vite</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-      <br><sub><b>Firebase</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br><sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-      <br><sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-      <br><sub><b>VS Code</b></sub>
-    </td>
-  </tr>
-</table>
+### 📊 Data & Analytics
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+</p>
+
+### ☁️ Cloud & ETL
+<p>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Glue-9D4EDD?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Athena-1B5E20?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
+</p>
+
+### 💻 Frontend
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+</p>
+
+### 🔧 Backend & Databases
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+### 🧰 Tools, CI/CD & Workflow
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+</p>
 
 <br/>
 
 ---
 
-## 🚀 Proyecto Destacado
 
-<div align="center">
-
-<a href="http://mipromedio.site">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JADER124&repo=mipromedio&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Mi Promedio" />
-</a>
-
-**🎓 Mi Promedio** — Plataforma web para calcular y proyectar tu promedio académico de forma inteligente.
-
-[![Demo](https://img.shields.io/badge/🌐_Demo_en_vivo-mipromedio.site-22c55e?style=for-the-badge)](http://mipromedio.site)
-
-</div>
-
-<br/>
 
 ---
 
-## 📊 Estadísticas
+## 📊 Estadísticas & Actividad
 
 <div align="center">
 
@@ -128,16 +114,14 @@ const jhon = {
   <img height="180" src="https://streak-stats.demolab.com/?user=JADER124&theme=dark&hide_border=true&background=1c1917&stroke=22c55e&ring=22c55e&fire=0891b2&currStreakLabel=22c55e&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=a1a1aa" alt="GitHub Streak" />
 </a>
 
-</div>
+<br/><br/>
+
+<img width="100%" src="/metrics.svg" alt="Métricas" />
 
 <br/>
 
----
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JADER124&bg_color=1c1917&color=ffffff&line=22c55e&point=0891b2&area=true&hide_border=true&custom_title=Gráfico%20de%20contribuciones)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 📈 Actividad y Lenguajes
-
-<div align="center">
-  <img width="100%" src="/metrics.svg" alt="Métricas" />
 </div>
 
 <br/>
@@ -154,21 +138,16 @@ const jhon = {
 <a href="https://github.com/JADER124" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-1c1917?style=for-the-badge&logo=github&logoColor=22c55e" alt="GitHub" />
 </a>
-<a href="mailto:jaderlopez186@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<a href="http://mipromedio.site" target="_blank">
+<a href="https://personal-portfolio-tawny-psi.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
 
-</div>
+<br/><br/>
 
-<br/>
+> *"No escribo código, materializo ideas."*
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&stroke=22C55E&strokeOpacity=1&height=120&section=footer" width="100%" />
 
 <sub>Hecho con pasión desde Medellín 🇨🇴</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
 
 </div>
