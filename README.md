@@ -126,9 +126,6 @@ const jhon = {
 <a href="https://www.linkedin.com/in/jhon-lopez-blandon-5751a6236" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://github.com/JADER124" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-1c1917?style=for-the-badge&logo=github&logoColor=22c55e" alt="GitHub" />
-</a>
 <a href="https://personal-portfolio-tawny-psi.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
