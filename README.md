@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://personal-portfolio-tawny-psi.vercel.app/" target="_blank">
+<a href="https://personal-portfolio-v2-three.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/🌐_Portfolio-personal--portfolio-22c55e?style=for-the-badge" alt="Portfolio" />
 </a>
 
